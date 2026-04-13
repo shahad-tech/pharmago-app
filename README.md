@@ -14,9 +14,8 @@ This project focuses on user experience (UI/UX) and usability testing to improve
 
 ## Status
 Completed as part of a Human-Computer Interaction course project.
-
 ## Screenshots
 
-![App Screen 1](IMG_6971.jpeg)
-![App Screen 2](IMG_6972.jpeg)
-![App Screen 3](IMG_6973.jpeg)
+![Home Screen](IMG_6971.jpeg)
+![Tracking Screen](IMG_6972.jpeg)
+![Payment Screen](IMG_6973.jpeg)
